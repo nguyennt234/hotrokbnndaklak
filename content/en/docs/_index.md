@@ -1,7 +1,7 @@
 
 ---
-title: "Kiến thức tin học"
-linkTitle: "Kiến thức tin học"
+title: "Tài liệu hướng dẫn"
+linkTitle: "Tài liệu hướng dẫn"
 weight: 20
 menu:
   main:

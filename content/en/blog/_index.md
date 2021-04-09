@@ -1,6 +1,6 @@
 ---
-title: "Chia sẻ linh tinh"
-linkTitle: "Chia sẻ linh tinh"
+title: "Thông báo"
+linkTitle: "Thông báo"
 menu:
   main:
     weight: 30

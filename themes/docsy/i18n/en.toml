@@ -3,10 +3,10 @@
 # UI strings. Buttons and similar.
 
 [ui_pager_prev]
-other = "Previous"
+other = "Trước"
 
 [ui_pager_next]
-other = "Next"
+other = "Sau"
 
 [ui_read_more]
 other = "Đọc thêm"
@@ -16,7 +16,7 @@ other = "Tìm kiếm…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
-other = "in"
+other = "trong"
 
 # Footer text
 [footer_all_rights_reserved]

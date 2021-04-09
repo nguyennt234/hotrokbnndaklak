@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Hỗ trợ DVC KBNN Đắk Lắk"
+title = "Tổ Hỗ trợ DVC KBNN Đắk Lắk"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Hỗ trợ DVC KBNN Đắk Lắk"
-description = "Trang chia sẻ kiến thức"
+title = ""
+description = ""
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -144,8 +144,8 @@ footer_about_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+# yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+# no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -156,34 +156,22 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-	name = "User mailing list"
-	url = "https://example.org/mail"
+	name ="Facebook"
+	url = "https://www.facebook.com/dichvucongkbnndaklak"
+	icon = "fab fa-facebook"
+        desc = "Theo dõi chúng tôi trên Facebook"
+[[params.links.user]]
+	name = "Đội hỗ trợ KBNN"
+	url = "mailto:hotrocntt@vst.gov.vn"
 	icon = "fa fa-envelope"
-        desc = "Discussion and help from your fellow users"
+        desc = "Gửi email cho đội hỗ trợ tại KBNN"
 [[params.links.user]]
-	name ="Twitter"
-	url = "https://example.org/twitter"
-	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-	name = "Stack Overflow"
-	url = "https://example.org/stack"
-	icon = "fab fa-stack-overflow"
-        desc = "Practical questions and curated answers"
+	name = "Đội hỗ trợ KBNN Đắk Lắk"
+	url = "mailto:nguyennt234@gmail.com"
+	icon = "fa fa-address-card"
+        desc = "Gửi email cho đội hỗ trợ tại tỉnh"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.developer]]
-	name = "GitHub"
-	url = "https://github.com/google/docsy"
-	icon = "fab fa-github"
-        desc = "Development takes place here!"
-[[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
-[[params.links.developer]]
-	name = "Developer mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+
+
+
 
