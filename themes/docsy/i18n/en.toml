@@ -28,11 +28,11 @@ other = "Privacy Policy"
 
 # Post (blog, articles etc.)
 [post_byline_by]
-other = "By"
+other = "Bởi"
 [post_created]
-other = "Created"
+other = "Được tạo"
 [post_last_mod]
-other = "Last modified"
+other = "Lần cập nhật cuối cùng"
 [post_edit_this]
 other = "Edit this page"
 [post_create_child_page]
@@ -42,7 +42,7 @@ other = "Create documentation issue"
 [post_create_project_issue]
 other = "Create project issue"
 [post_posts_in]
-other = "Posts in"
+other = "Thông báo trong"
 
 # Print support
 [print_printable_section]
